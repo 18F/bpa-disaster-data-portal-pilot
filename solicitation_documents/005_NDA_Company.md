@@ -59,11 +59,16 @@ UNITED STATES GENERAL SERVICES ADMINISTRATION | [CONTRACTOR]
 --- | ---
 Signature* | Signature*
 Date | Date
-Michelle McNellis, Contracting Officer | [PRINT NAME, TITLE]
+Frederick Thomas, Contracting Officer | [PRINT NAME, TITLE]
 
 * Person must have the authority to bind the company.
 
 
 ## Addendum
 
-* NAME
+* Jasmine Mitchell
+* Randy Hart
+* Waldo Jaquith
+* Omid Ghaffari-Tabrizi
+* Todd Richardson
+* Paul Joice
