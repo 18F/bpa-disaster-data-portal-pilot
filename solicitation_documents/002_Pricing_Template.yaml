@@ -16,7 +16,7 @@ Labor (add additional line items if necessary):
     discounted_rate: 
     ceiling_price: 
     pricing_narrative: "(Please provide the reasoning behind your estimated price)"
-   - number: 0002
+  - number: 0002
     proposed_bpa_labor_category: "(Please provide)"
     labor_hours: 
     gsa_hourly_rate: 
