@@ -6,8 +6,8 @@ BPA_Number: "(Note: we will provide)"
 POC_Name: "First Last"
 Total_Evaluated_Price: "$X"
 Date_of_Submission: "XX/XX/XXXX"
-Base_Period: "3 months"
-Optional_Periods: "2 Optional Periods consisting of 3 months each"
+Base_Period: "4 months"
+Optional_Periods: "none"
 Labor (add additional line items if necessary):
   - number: 0001
     proposed_bpa_labor_category: "(Please provide)"
