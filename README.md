@@ -2,7 +2,7 @@
 
 ## Instructions
 
-The documents in this repository are posted to eBuy under ID11170012. The documents in eBuy should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by February 10, 2017 at 2:00 pm EST. TTS and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors. Comments from other parties will still be considered but we cannot commit to responding to them.
+The documents in this repository are posted to eBuy under ID11170012. The documents in eBuy should always be considered the documents of record. Please submit any questions as GitHub issues in this repository by February 10, 2017 at 3:00 pm EST. TTS and the Contracting Officer will only be responding to questions submitted by Agile BPA vendors. Comments from other parties will still be considered but we cannot commit to responding to them.
 
 Offers are due by February 21, 2017, at 3:00 pm EST.
 
