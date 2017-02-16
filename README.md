@@ -6,6 +6,26 @@ The documents in this repository are posted to eBuy under ID11170012. The docume
 
 **Offers are due by February 21, 2017, at 3:00 pm EST.**
 
+## Background
+
+The Disaster Data Recovery Portal Pilot is anticipated to replace the currently used system that involves a variety of data sharing methods ranging from the default method of sending physical media (e.g., CD-ROM, flash drive, portable hard drive, etc.) to a state-specific secure File Transfer Protocol (FTP) system. The Disaster Data Recovery Portal Pilot’s primary goal is to put an end to “double-dipping” by aid recipients while the secondary goal is to provide a secure and real-time (or as real-time as is feasibly possible) system to support state and local governments in their relief efforts.
+
+### What we're hoping to end up with
+
+The scope of this call order is for the contractor to deliver the Disaster Data Recovery Portal Pilot system. The Period of Performance will cover creation of the registration/authentication system, a user interface that allows for the selection and sorting of all data as well as user-selected subsets of data, and a visualization of the data and/or subsets of data over GIS maps.
+
+### How to respond
+
+Detailed instructions about how to respond are explained in [section 6.0 of our RFQ](solicitation_documents/001_RFQ.md#6-quotation-instructions).
+
+### Key personnel
+
+Details about what we're looking for from a Project Manager (PM) and Technical Lead are explained in [section 6.1.2 of our PWS](solicitation_documents/003_PWS.md#612-key-personnel).
+
+### Period of performance
+
+There will be a Base Period of 4 months. Details, including the official start date, are explained in [section 3.0 of our RFQ](solicitation_documents/001_RFQ.md#3-period-of-performance).
+
 ## Contents
 
 1. [RFQ](solicitation_documents/001_RFQ.md)
